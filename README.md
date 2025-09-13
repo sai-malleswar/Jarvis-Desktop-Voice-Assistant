@@ -1,4 +1,4 @@
-# Jarvis Desktop Voice Assistant🔥
+# Jarvis Desktop Voice Assistant
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
@@ -34,17 +34,6 @@ It can do a lot of cool things, some of them being:
 - Install all the requirements given in **[Requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Requirements.txt)**
 - Install **PyAudio** from wheel file by following instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
 - Run the python script named as ```jarvis.py``` which is in Jarvis Directory.
-- Now Enjoy with your own assistant !!!!
 
-## 📌Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📌Author
-
-👤 **Sai Malleswar**
-
-## 📌Show your support
-
-Please ⭐️ this repository if this project helped you!
 
 
